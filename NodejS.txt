@@ -1,0 +1,12 @@
+NODE JS 
+
+Node js is :
+a javascript runtime built on chrome's V8 javascript engine.Node.js uses an event-driven ,non-blocking model that makes it lightweight and efficient.Node.js
+package ecosystem,npm,is the largest ecosystem of open source libraries in the world.
+
+Why node.js is so popular ?
+- it uses JavaScript
+-Very fast as it runs on the v8 engine & uses non-blocking code
+-huge ecosystem of open source packages(npm)
+-Great for real-time services(like chats)
+
